@@ -103,4 +103,23 @@ Every state and city in India has it's own speciality. This section shows the Gr
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174476104-6bf199b4-7b76-48af-8de6-5318549f5600.png">
 
+![t2](https://github.com/user-attachments/assets/6a588640-5a36-4d92-99b7-43f508ce50f8)
+
+![t3](https://github.com/user-attachments/assets/aa6b89a0-0b89-48af-8901-e3c4a4cb4272)
+
+![t4](https://github.com/user-attachments/assets/4165ae35-a04f-46de-a0e4-0f5d8b7a503b)
+
+![t5](https://github.com/user-attachments/assets/65736e08-a464-4b1d-8b2c-a412fdc25bb6)
+
+![t6](https://github.com/user-attachments/assets/c5f71dd1-d8a1-47ed-95b6-1899220ec577)
+
+
+
+
+
+
+
+
+
+
 
