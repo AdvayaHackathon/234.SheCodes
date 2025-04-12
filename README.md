@@ -42,7 +42,9 @@ Let's keep it fair, fun, and impactful!
 If you need any support during the hackathon, don't hesitate to reach out to the co-ordinators.
 
 Cheers,  
-_Advaya Hackathon Team_
+Advaya Hackathon Team
+
+
 
 
 # Introduction:
