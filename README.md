@@ -89,7 +89,7 @@ This section of the website gives the user an overview of the famous heritage si
 <b>One of the best features of our website is that it lets the user view, locate and learn about the top 10 heritage sites of India at one place.</b>
 For this, we have used the "Google My Maps" feature that locates to the various heritage sites in terms of their geographical location. On clicking on any of the pointers, the user can know it's location and read about its rich history and culture and appreciate the diversity!
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174475490-c74a4c63-e0b1-490d-ace5-77debb17f401.png">
+
 
 This section shows the different foods and cultures, heritage sites and the paradise of our country - India.
 
@@ -97,11 +97,11 @@ This section shows the different foods and cultures, heritage sites and the para
 
 Every state and city in India has it's own speciality. This section shows the Great cities of India and what are they famous for.
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174476043-1e8bd01b-8d89-42e4-a41d-fa33756774ff.png">
+
 
 <b>India is a diverse country.</b> The blogs and articles section allows the user to read about the <b>diverse food, religions, linguistic diversity and different festivals of India.</b> This section shows how India, despite being a diverse country, is united.
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174476104-6bf199b4-7b76-48af-8de6-5318549f5600.png">
+
 
 ![t2](https://github.com/user-attachments/assets/6a588640-5a36-4d92-99b7-43f508ce50f8)
 
